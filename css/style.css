@@ -850,3 +850,58 @@ hr{
 .w-100{
     width: 50%;
 }
+.slick-prev {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 650px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+    border-radius: 50%;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.slick-prev {
+    left: 10px;
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 650px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+    border-radius: 50%;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.slick-next{
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 650px;
+    right: 240px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+    border-radius: 50%;
+    border: 1px solid rgb(255, 255, 255);
+}

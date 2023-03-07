@@ -198,7 +198,7 @@ color: #CCCCCC;
     border-radius: 12px;
 }
 #banner p{
-    font-family: 'Lakeside';
+    font-family: 'Mr Dafoe', cursive;
     font-style: italic;
     font-weight: 400;
     color: #FF33CB;
@@ -634,8 +634,7 @@ transition: all linear 0.3s;
     background-color:   linear-gradient(99.62deg, #000000 6.24%, rgba(0, 0, 0, 0.363) 114.86%), linear-gradient(0deg, rgba(0, 0, 0, 0.452), rgba(0, 0, 0, 0.507));
 }
 #paradise-stact-world .heading-lakside{
-    font-family: 'Lakeside';
-    font-style: italic;
+    font-family:'Mr Dafoe', cursive ;
     font-weight: 400;
     font-size: 62px;
     color: #FFFFFF;
@@ -720,6 +719,7 @@ color: #FFC2EF;
 
 
 .social-icon{
+    width: 200px;
     display: flex;
     justify-content: space-between;
 }
@@ -766,7 +766,7 @@ hr{
 
 
 .paradise-left h3{
-    font-family: 'Lakeside';
+    font-family: 'Mr Dafoe', cursive;
     font-style: italic;
     font-weight: 400;
     font-size: 62px;
@@ -829,7 +829,7 @@ hr{
 }
 .paradise-right img{
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     object-fit:cover;
     object-position: center left ;
 }

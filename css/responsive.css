@@ -1,0 +1,368 @@
+@media (min-width: 1400px){
+} 
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    #your-customer .main-heading{
+        font-size: 65px;
+        
+    }
+    #your-customer h3{
+        font-size: 20px;
+    }
+    #your-customer h3{
+        font-size: 19.5px;
+    }
+
+    .benefits-para{
+        font-size: 24px;
+    }
+    
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .menu-a{
+        font-size: 13px;
+        
+    }
+    #banner p{
+        font-size: 42px;
+    }
+    #banner .main-heding{
+        font-size: 60px;
+    }
+    .main-heading {
+        font-size: 60px;
+    }
+    .work-slider-first .slick-slider img{
+        object-position: bottom  ;
+    }
+    .slide-img{
+        height: 370px;
+        margin: 0 5px;
+    }
+    .work-position{
+        height: 350px;
+     }
+
+     /* steps three */
+     .steps{
+        height: 400px;
+        line-height: 340px;
+    }
+
+    #your-customer h3{
+        font-size: 20px;
+    }
+    #your-customer p{
+        font-size: 19.5px;
+    }
+    .benefits-para{
+        font-size: 20px;
+    }
+
+    .benefits-over-para{
+        font-size: 18px;
+        padding: 20px;
+        }
+ 
+    
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    #banner p{
+        font-size: 42px;
+    }
+    #banner .main-heding{
+        font-size: 55px;
+        margin: 0 0  40px 0;
+    }
+    .main-heading {
+        font-size: 55px;
+        padding-top: 60px;
+        padding-bottom: 30px
+    }
+
+    .work-slider-first .slick-slider img{
+        object-position: bottom  ;
+    }
+    .slide-img{
+        height: 270px;
+        margin: 0 5px;
+    }
+    .work-position{
+        height: 250px;
+     }
+     .threesteps-bg{
+        padding: 80px 0 100px;
+    }
+    .steps{
+        margin: 0 10px  100px 10px;
+    }
+    #your-customer h3{
+        font-size: 20px;
+    }
+    #your-customer p{
+        font-size: 18px;
+    }
+    #our-three-steps .slide-img{
+        height: 400px;
+        margin: 0 10px;
+    }
+    #your-benefits .sub-title{
+        font-size: 20px;
+    }
+    
+    #your-benefits .para{
+        font-size: 16px;
+    }
+
+    .benefits-para{
+        font-size: 18px;
+    }
+
+    .benefits-over-para{
+        font-size: 16px;
+
+    }
+    #get-boots  .slide-img{
+        height: 400px;
+        margin: 0 5px;
+    }
+     
+} 
+
+@media (min-width: 576px) and (max-width: 767px) {
+    #banner p{
+        font-size: 42px;
+    }
+    #banner .main-heding{
+        font-size: 40px;
+        margin: 0 0  40px 0;
+    }
+    .main-heading {
+        font-size: 40px;
+        padding-top: 60px;
+        padding-bottom: 30px
+    }
+    .para-work{
+        color: #4D4D4D;
+        font-size: 16px;
+    }
+    .slide-img{
+        height: 220px;
+        margin: 0 5px;
+    }
+    .work-position{
+        height: 280px;
+     }
+
+     /* three steps */
+     .threesteps-bg{
+        padding: 80px 0 100px;
+    }
+     .steps{
+        height: 300px;
+        line-height: 300px;
+        margin: 0 10px  100px 10px;
+    }
+    #your-customer h3{
+        font-size: 20px;
+        font-size: 20px;
+    }
+    #your-customer p{
+        font-size: 18px;
+    }
+
+
+    #our-three-steps .slide-img{
+        height: 370px;
+        margin: 0 10px;
+    }
+    #your-benefits .sub-title{
+        font-size: 20px;
+    }
+    
+    #your-benefits .para{
+        font-size: 16px;
+    }
+    .benefits-para{
+        font-size: 18px;
+    }
+
+    .benefits-over-para{
+        font-size: 16px;
+        padding: 20px;
+        }
+        #get-boots  .slide-img{
+            height: 370px;
+            margin: 0 5px;
+        }
+        /* login */
+        .form{
+            width: 100%;
+            padding: 48px;
+        }
+
+        /* paradise */
+
+        .paradise-left h3{
+            font-size: 42px;
+            line-height: 51px;
+        }
+        
+        .paradise-left h1{
+            font-size: 40px;
+            line-height: 119px;
+            
+        }
+        
+        
+        .paradise-left  p{
+            font-size: 18px;
+        }
+        
+        .counter-left{
+            width: 100%;
+        }
+        
+        .counter-right{
+            width: 100%;
+        }
+        .counter-paradise h1{
+            font-size: 50px;
+            line-height: 74px;
+        }
+        .counter-paradise p{
+            color: #CCCCCC;
+        }
+        
+ 
+} 
+
+@media (max-width: 575px) {
+    #banner p{
+        font-size: 22px;
+    }
+    #banner .main-heding{
+        font-size: 40px;
+        margin: 0 0  20px 0;
+    }
+    .main-heading {
+        font-size: 40px;
+        padding-top: 60px;
+        padding-bottom: 30px
+    }
+
+    .para-work{
+        color: #4D4D4D;
+        font-size: 16px;
+    }
+    .slide-img{
+        /* width: 400px; */
+        height: 220px;
+        margin: 0 5px;
+    }
+
+    #our-three-steps .slide-img{
+        height: 320px;
+        margin: 0 5px;
+    }
+    .work-position{
+        height: 280px;
+     }
+     /* three steps */
+     .threesteps-bg{
+        padding: 80px 0 100px;
+    }
+    .steps h1{
+        font-size: 30px;
+    }
+    .steps{
+        padding: 24px;
+        background: #fff;
+        margin: 0 10px  100px 10px;
+    }
+    .steps .main-heading {
+        padding-top: 0;
+    }
+    .steps h3{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+    }
+    .steps p{
+        font-size: 16px;
+    }
+    #your-customer h3{
+        font-size: 20px;
+        margin: 20px 0;
+    }
+    #your-customer p{
+        font-size: 18px;
+    }
+
+    #your-benefits .sub-title{
+        font-size: 20px;
+    }
+    
+    #your-benefits .para{
+        font-size: 16px;
+    }
+
+    .benefits-para{
+        font-size: 18px;
+    }
+
+    .benefits-over-para{
+        font-size: 16px;
+        }
+
+        #get-boots  .slide-img{
+            height: 258px;
+            margin: 0 5px;
+        }
+        /* login */
+        .form{
+            width: 100%;
+            padding: 48px;
+        }
+
+
+        /* paradise */
+
+        .paradise-left h3{
+            font-size: 42px;
+            line-height: 51px;
+        }
+        
+        .paradise-left h1{
+            font-size: 40px;
+            line-height: 119px;
+            
+        }
+        
+        
+        .paradise-left  p{
+            font-size: 18px;
+        }
+        
+        .counter-left{
+            width: 100%;
+        }
+        
+        .counter-right{
+            width: 100%;
+        }
+        .counter-paradise h1{
+            font-size: 50px;
+            line-height: 74px;
+        }
+        .counter-paradise p{
+            color: #CCCCCC;
+        }
+        
+        
+}
+

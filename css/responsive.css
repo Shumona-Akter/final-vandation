@@ -66,6 +66,14 @@
         padding: 20px;
         }
  
+
+
+    .slick-next{
+    right: 150px;
+    }
+    .paradise-left h1 {
+    font-size: 65px;
+    }
     
 }
 
@@ -128,6 +136,27 @@
     #get-boots  .slide-img{
         height: 400px;
         margin: 0 5px;
+    }
+    .form{
+        width: 100%;
+    }
+
+    .login-main{
+        display: flex;
+        padding: 0 ;
+        background: #ffffff;
+        height: 1000px;
+        position: relative;
+    }
+
+    .slick-next{
+        right: 150px;
+    }
+    .paradise-left h1 {
+        font-family: 'Oswald';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 55px;
     }
      
 } 
@@ -207,7 +236,7 @@
         /* paradise */
 
         .paradise-left h3{
-            font-size: 42px;
+            font-size: 32px;
             line-height: 51px;
         }
         
@@ -236,6 +265,7 @@
         .counter-paradise p{
             color: #CCCCCC;
         }
+
         
  
 } 
@@ -333,7 +363,7 @@
         /* paradise */
 
         .paradise-left h3{
-            font-size: 42px;
+            font-size: 22px;
             line-height: 51px;
         }
         

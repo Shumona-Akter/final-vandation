@@ -131,12 +131,13 @@ $('.work-slider').slick({
       
 // your vustomer
 
+
 $('.customer-slider').slick({
   infinite: true,
   slidesToShow: 4,
   slidesToScroll: 1,
   autoplaySpeed: 500,
-  autoplay: true,
+  autoplay: false,
   arrows: false,
   responsive: [
       {
@@ -170,7 +171,6 @@ $('.customer-slider').slick({
         autoplaySpeed: 2000,
         autoplay: true,
         arrows: false,
-        centerPadding: '110px',
         
       }
     },

@@ -1,4 +1,13 @@
 @media (min-width: 1400px){
+    #our-three-steps .slide-img{
+        height: 433px;
+        margin: 0 20px 0 0;
+
+    }
+    #get-boots  .slide-img{
+        height: 433px;
+        margin: 0 20px 0 0;
+    }
 } 
 
 @media (min-width: 1200px) and (max-width: 1399px) {
@@ -15,6 +24,15 @@
 
     .benefits-para{
         font-size: 24px;
+    }
+    #our-three-steps .slide-img{
+        height: 400px;
+        margin: 0 20px 0 0;
+
+    }
+    #get-boots  .slide-img{
+        height: 400px;
+        margin: 0 20px 0 0;
     }
     
     
@@ -74,7 +92,16 @@
     .paradise-left h1 {
     font-size: 65px;
     }
-    
+
+    #our-three-steps .slide-img{
+        height: 370px;
+        margin: 0 20px 0 0;
+
+    }
+    #get-boots  .slide-img{
+        height: 370px;
+        margin: 0 20px 0 0;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -114,8 +141,9 @@
         font-size: 18px;
     }
     #our-three-steps .slide-img{
-        height: 400px;
-        margin: 0 10px;
+        height: 350px;
+        margin: 0 20px 0 0;
+
     }
     #your-benefits .sub-title{
         font-size: 20px;
@@ -134,8 +162,8 @@
 
     }
     #get-boots  .slide-img{
-        height: 400px;
-        margin: 0 5px;
+        height: 350px;
+        margin: 0 20px 0 0;
     }
     .form{
         width: 100%;
@@ -205,8 +233,8 @@
 
 
     #our-three-steps .slide-img{
-        height: 370px;
-        margin: 0 10px;
+        height: 320px;
+        margin: 0 10px 0 0;
     }
     #your-benefits .sub-title{
         font-size: 20px;
@@ -224,8 +252,8 @@
         padding: 20px;
         }
         #get-boots  .slide-img{
-            height: 370px;
-            margin: 0 5px;
+            height: 320px;
+            margin: 0 10px 0 0;
         }
         /* login */
         .form{
@@ -291,13 +319,15 @@
     .slide-img{
         /* width: 400px; */
         height: 220px;
-        margin: 0 5px;
+        margin: 0;
     }
 
     #our-three-steps .slide-img{
-        height: 320px;
-        margin: 0 5px;
+        height: 248px;
+        margin: 0 8px 0 0;
+
     }
+    
     .work-position{
         height: 280px;
      }
@@ -350,8 +380,8 @@
         }
 
         #get-boots  .slide-img{
-            height: 258px;
-            margin: 0 5px;
+            height: 248px;
+            margin: 0 8px 0 0;
         }
         /* login */
         .form{
@@ -415,6 +445,12 @@
             padding: 140px 0 100px;
             position: relative;
             z-index: 1;
+        }
+        .paradise-left h3{
+            font-size: 22px;
+        }
+        .paradise-left h1{
+            font-size: 40px;
         }
         
 }

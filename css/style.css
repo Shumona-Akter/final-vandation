@@ -19,6 +19,14 @@ a{
 /* common css end */
 
 /* background color */
+.nav-position-fixed{
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9;
+}
 .violate-bg{
     background: var(--violate);
 }
@@ -50,9 +58,7 @@ a{
     border-radius: 4px;
 }
 /* menu end */
-nav{
-    position: relative;
-}
+
 nav .navbar-toggler:focus {
     box-shadow: none;
 }
@@ -493,7 +499,7 @@ color: #CCCCCC;
 }
 .item-3{
     height: 330px;
-    background: url(../images/mistake1.jpeg) no-repeat center / cover;
+    background: url(../images/Content/content-3.jpeg) no-repeat center / cover;
     
 }
 .item-4{
